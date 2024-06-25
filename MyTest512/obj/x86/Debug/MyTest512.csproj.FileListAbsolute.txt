@@ -1,0 +1,16 @@
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\MyTest512.rxtmg
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\MyTest512.rxtst
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\MyTest512.exe.config
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\MyTest512.xml
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\MyTest512.exe
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\MyTest512.pdb
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\Ranorex Automation Helpers.dll
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\Ranorex.ReportToPDF.exe
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\Ranorex Automation Helpers.pdb
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\bin\Debug\Ranorex Automation Helpers.xml
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\obj\x86\Debug\MyTest512.csproj.AssemblyReference.cache
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\obj\x86\Debug\MyTest512.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\obj\x86\Debug\MyTest512.csproj.CopyComplete
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\obj\x86\Debug\MyTest512.exe
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest512\MyTest512\obj\x86\Debug\MyTest512.pdb
